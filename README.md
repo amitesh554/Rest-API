@@ -1,4 +1,4 @@
-**#Steps to run the Project**
+**Steps to run the Project**
 
 --------------------------------------------------------------------------------------------------------------------------
 1. Open the folder in any IDE(Preferrably VS Code)
